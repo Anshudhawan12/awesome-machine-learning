@@ -18,3 +18,4 @@ The following is a list of free-to-attend meetups and local events on Machine Le
 ### São Paulo
 * [AI Brasil](https://www.meetup.com/pt-BR/ai-brasil/)
 * ok this file is great 
+ok this file is super great 
